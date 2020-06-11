@@ -4,4 +4,7 @@ Gitの練習！
 
 year
 
-fwaefnal
+fwaefnal4
+
+
+git-status
